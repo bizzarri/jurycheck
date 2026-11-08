@@ -1,0 +1,17 @@
+# Built programs and generated review output
+/bin/
+/dist/
+/jurycheck
+/jurycheck.exe
+*.exe
+*.test
+coverage.out
+review*.html
+review*.json
+
+# Keep report documents and local Office working files out of source control
+*.docx
+*.dotx
+*.docm
+*.pdf
+~$*
